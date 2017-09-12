@@ -1,0 +1,19 @@
+#8-30-17 Chris's Recitation
+
+
+### Ways to use linux (Duel boot, VM, Mac, cygwin, etc.)
+
+* **Look on Canvas for recitation notes and files**
+
+if hw1 is a dir
+rm hw -r
+removes dir, -r stands for recursive
+touch commands updates file time stamp, if file DNE, it creates it
+cp = copy (2 params, file to copy, new name of copied file)
+
+nothing to difficult presented here
+
+### Programs in the future:
+In the future: You will be writing longer examples...
+**Multithreaded Computing!!!!**
+omp.h 
