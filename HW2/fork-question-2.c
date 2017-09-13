@@ -1,7 +1,7 @@
 /**
 Jim Patrizi - jdp99
 EECS 338 - Intro to OS
-HW2 Question 1
+HW2 Question 2
 **/
 
  #include <stdio.h>
