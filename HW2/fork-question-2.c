@@ -1,17 +1,9 @@
 /**
-2. Create a program that creates three processes where the 2 nd process
-is the child of the 1 st and the parent of
-the 3rd. Display the IDs in the order in which the processes
-are created. Below is an example of how the
-output might look. Use the “flush(stdout)” and “sleep(#)”
-instructions to ensure the lines are printed in the
-correct order. Alternately, you may use “wait” instead
-of “sleep” if you wish.
-
-Process 1 = 45756, parent = 50076.
-Process 2 = 71244, parent = 45756.
-Process 3 = 18692, parent = 71244.
+Jim Patrizi - jdp99
+EECS 338 - Intro to OS
+HW2 Question 1
 **/
+
  #include <stdio.h>
  #include <sys/types.h>
  #include <sys/wait.h>
